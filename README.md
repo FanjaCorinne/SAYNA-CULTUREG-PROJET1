@@ -1,5 +1,5 @@
 # SAYNA-CULTUREG-PROJET1
-Les basiques : CULTURE GENERALE
+PROJET : Initiation à la culture générale
 
 Hello 🙂
 
